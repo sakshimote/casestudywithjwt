@@ -1,0 +1,13 @@
+
+§
+java:S1128"oRemove this unused import 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity'.(ŸÜÑıÿÿÿÿ8ı³™Ê‚1H®RMINORZ
+CODE_SMELL
+“
+java:S1128"`Remove this unused import 'org.springframework.boot.autoconfigure.mongo.MongoAutoConfiguration'.(½óÙ’8ÂìÇ‚1H°RMINORZ
+CODE_SMELL
+‰
+java:S1128"XRemove this unused import 'org.springframework.cloud.netflix.eureka.EnableEurekaClient'.(´÷ÎÉüÿÿÿÿH²RMINORZ
+CODE_SMELL
+š
+java:S1128	"nRemove this unused import 'org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration'.(Ûæ„ƒH´RMINORZ
+CODE_SMELL

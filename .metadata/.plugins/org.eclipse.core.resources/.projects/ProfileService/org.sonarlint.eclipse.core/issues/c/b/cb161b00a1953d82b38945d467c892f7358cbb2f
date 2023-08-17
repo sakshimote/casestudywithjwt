@@ -1,0 +1,16 @@
+
+b
+java:S1611K"1Remove the parentheses around the "web" parameter(‡îè¹ùÿÿÿÿHÉRMINORZ
+CODE_SMELL
+
+java:S1488O"_Immediately return this expression instead of assigning it to the temporary variable "encoder".(ÊĞÖ›ıÿÿÿÿHÊRMINORZ
+CODE_SMELL
+…
+java:S3305"VInject this field value directly into "getAuthProvider", the only method that uses it.(÷Á’¾HÍRCRITICALZ
+CODE_SMELL
+‡
+java:S1192:"LDefine a constant instead of duplicating this literal "/api/user/*" 3 times.(Ãá¤Üÿÿÿÿÿ8¾êÿÊ‚1HÎRCRITICALZ
+CODE_SMELL
+†
+java:S3305"RInject this field value directly into "filterChain", the only method that uses it.(¹«›½ÿÿÿÿÿHÒRCRITICALZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+
+x	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ײנד)HלRMINORZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úעֳ‏ÿÿÿÿHםRMINORZ
+CODE_SMELL
+y	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ָ€•גHמRMINORZ
+CODE_SMELL
+u
+java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ר¦תÿÿÿÿHןRMINORZ
+CODE_SMELL
+i
+java:S1128">Remove this unused import 'com.cartservice.app.model.Product'.(מ‹6HסRMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+o
+java:S1128">Remove this unused import 'com.profile.app.model.UserProfile'.(¤šœøÿÿÿÿH»RMINORZ
+CODE_SMELL
+“
+java:S1488#"bImmediately return this expression instead of assigning it to the temporary variable "springUser".(ëâÕëüÿÿÿÿH½RMINORZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÀRINFOZ
+CODE_SMELL

@@ -1,0 +1,23 @@
+
+b
+java:S1135H"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH÷RINFOZ
+CODE_SMELL
+r	java:S107O"BConstructor has 11 parameters, which is greater than 7 authorized.(úàÏêþÿÿÿÿHöRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(¯¾½•ÿÿÿÿÿ8ÐùýÚ1HŽRMAJORZ
+CODE_SMELL
+ƒ
+java:S1128"PRemove this unused import 'org.springframework.data.mongodb.core.index.Indexed'.(§™õ÷8Á¤ÿÚ1H«RMINORZ
+CODE_SMELL
+‹
+java:S1128"SRemove this unused import 'org.springframework.data.mongodb.core.mapping.Document'.(ú™ïÊúÿÿÿÿ8Á¤ÿÚ1H­RMINORZ
+CODE_SMELL
+ˆ
+java:S1128"PRemove this unused import 'org.springframework.data.mongodb.core.mapping.Field'.(Åâÿ”üÿÿÿÿ8Á¤ÿÚ1H¯RMINORZ
+CODE_SMELL
+t
+java:S1128"<Remove this unused import 'io.swagger.annotations.ApiModel'.(ÕŸÎþüÿÿÿÿ8Á¤ÿÚ1H±RMINORZ
+CODE_SMELL
+v
+java:S1128"DRemove this unused import 'io.swagger.annotations.ApiModelProperty'.(í˜í8Á¤ÿÚ1H³RMINORZ
+CODE_SMELL

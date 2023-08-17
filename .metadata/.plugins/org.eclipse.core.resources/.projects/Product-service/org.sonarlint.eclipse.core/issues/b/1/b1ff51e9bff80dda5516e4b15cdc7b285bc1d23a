@@ -1,0 +1,6 @@
+
+‚
+java:S1104"VMake SECRET_KEY a static final constant or non-public and provide accessors if needed.(Ø²Ý§HãRMINORZ
+CODE_SMELL
+€	java:S116"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø²Ý§HäRMINORZ
+CODE_SMELL

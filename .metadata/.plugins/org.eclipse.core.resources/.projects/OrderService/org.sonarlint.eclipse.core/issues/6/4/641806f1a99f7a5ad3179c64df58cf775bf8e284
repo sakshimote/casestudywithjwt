@@ -1,0 +1,19 @@
+
+
+java:S1488R"]Immediately return this expression instead of assigning it to the temporary variable "order".(ş‡Ü¼ûÿÿÿÿHóRMINORZ
+CODE_SMELL
+z
+java:S3655R"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ş‡Ü¼ûÿÿÿÿHÿRMAJORZBUG
+j
+java:S22597"EA "NullPointerException" could be thrown; "profile" is nullable here.(•Ô…ÕHöRMAJORZBUG
+Æ
+java:S4449¥"“Annotate the parameter with @javax.annotation.Nullable in method 'addAttachment' declaration, or make sure that null can not be passed as argument.(ğ­—úÿÿÿÿH€RMAJORZ
+CODE_SMELL
+z
+java:S3655i"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ş‡Ü¼ûÿÿÿÿHşRMAJORZBUG
+	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒõÓëşÿÿÿÿHòRMINORZ
+CODE_SMELL
+l
+java:S22596"BA "NullPointerException" could be thrown; "cart" is nullable here.(ÏÁÉçøÿÿÿÿHúRMAJORZBUG
+s	java:S125?"<This block of commented-out lines of code should be removed.(úÏªüøÿÿÿÿ8›ïë„1HŒRMAJORZ
+CODE_SMELL

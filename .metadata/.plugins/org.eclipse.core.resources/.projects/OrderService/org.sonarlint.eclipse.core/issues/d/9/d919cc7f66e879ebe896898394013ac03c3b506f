@@ -1,0 +1,17 @@
+
+†
+java:S3305 "RInject this field value directly into "filterChain", the only method that uses it.(¹«›½ÿÿÿÿÿHÕRCRITICALZ
+CODE_SMELL
+g	java:S125,"<This block of commented-out lines of code should be removed.(Ü™ÆýHÖRMAJORZ
+CODE_SMELL
+b
+java:S1611]"1Remove the parentheses around the "web" parameter(‡îè¹ùÿÿÿÿH×RMINORZ
+CODE_SMELL
+l	java:S1259"<This block of commented-out lines of code should be removed.(Ý«—žøÿÿÿÿHØRMAJORZ
+CODE_SMELL
+Š
+java:S3305"VInject this field value directly into "getAuthProvider", the only method that uses it.(í€ûÿÿÿÿHßRCRITICALZ
+CODE_SMELL
+
+java:S1488a"_Immediately return this expression instead of assigning it to the temporary variable "encoder".(ÊÐÖ›ýÿÿÿÿHàRMINORZ
+CODE_SMELL

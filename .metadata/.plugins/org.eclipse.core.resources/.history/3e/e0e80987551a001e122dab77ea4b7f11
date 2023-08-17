@@ -1,0 +1,33 @@
+package com.profile.app.repository;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.profile.app.model.UserProfile;
+
+
+@Document
+public interface ProfileRepository extends JpaRepository<UserProfile, String>{
+
+	List<UserProfile> findByMobileNo(Long mobileNo);
+	
+	List<UserProfile> findByEmail(String email);
+
+
+
+	
+
+	Optional<UserProfile> findById(Long userId);
+
+	void deleteById(Long userId); 
+	
+	
+	UserProfile findByUserName(String userName); 
+
+	
+
+}

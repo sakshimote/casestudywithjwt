@@ -1,0 +1,41 @@
+
+‘
+java:S1488¸"_Immediately return this expression instead of assigning it to the temporary variable "profile".(Ñé‚óÿÿÿÿÿHâRMINORZ
+CODE_SMELL
+q	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(ïÔœ¥HåRMAJORZ
+CODE_SMELL
+d	java:S106A"9Replace this use of System.out or System.err by a logger.(ĞİÇ¥HæRMAJORZ
+CODE_SMELL
+i	java:S106B"9Replace this use of System.out or System.err by a logger.(Ş „¯øÿÿÿÿHçRMAJORZ
+CODE_SMELL
+U	java:S108®")Either remove or fill this block of code.(”ı¾HèRMAJORZ
+CODE_SMELL
+‘
+java:S1488œ"_Immediately return this expression instead of assigning it to the temporary variable "profile".(í€“€şÿÿÿÿHéRMINORZ
+CODE_SMELL
+U	java:S108Ÿ")Either remove or fill this block of code.(”ı¾HìRMAJORZ
+CODE_SMELL
+”
+java:S1488x"cImmediately return this expression instead of assigning it to the temporary variable "userProfile".(•§ö«úÿÿÿÿHíRMINORZ
+CODE_SMELL
+‘
+java:S1488¬"_Immediately return this expression instead of assigning it to the temporary variable "profile".(º·ïåÿÿÿÿÿHğRMINORZ
+CODE_SMELL
+Z
+java:S14528"&Remove usage of generic wildcard type.( ÂÑ¦üÿÿÿÿHóRCRITICALZ
+CODE_SMELL
+w
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(×ÿ’µşÿÿÿÿHôRCRITICALZVULNERABILITY
+m
+java:S1854";Remove this useless assignment to local variable "profile".(³¸â­ûÿÿÿÿHõRMAJORZ
+CODE_SMELL
+w
+java:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(¬‘Ú·şÿÿÿÿHöRCRITICALZVULNERABILITY
+
+java:S1488l"cImmediately return this expression instead of assigning it to the temporary variable "profileList".(ÇÛ÷ìH÷RMINORZ
+CODE_SMELL
+v	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.( ÂÑ¦üÿÿÿÿHúRMAJORZ
+CODE_SMELL
+^
+java:S1481",Remove this unused "profile" local variable.(³¸â­ûÿÿÿÿHûRMINORZ
+CODE_SMELL

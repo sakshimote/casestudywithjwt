@@ -1,0 +1,8 @@
+
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(”ôïƒÿÿÿÿÿ8é€òÊ‚1H›RMAJORZ
+CODE_SMELL
+T
+java:S5411/"(Use a primitive boolean expression here.(ı¶ñHœRMINORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(Şà‰ìıÿÿÿÿ8¯ş€–„1HúRMAJORZ
+CODE_SMELL
